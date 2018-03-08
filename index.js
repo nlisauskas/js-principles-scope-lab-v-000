@@ -8,3 +8,11 @@ return customerName.toUpperCase();
 function setBestCustomer() {
 
 };
+
+function overwriteBestCustomer() {
+
+};
+
+function changeLeastFavoriteCustomer() {
+
+};
