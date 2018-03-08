@@ -1,6 +1,5 @@
 // Write your solution in this file!
-let customerName = 'bob';
-customerName;
+const customerName = 'bob';
 
 function upperCaseCustomerName(name) {
 
