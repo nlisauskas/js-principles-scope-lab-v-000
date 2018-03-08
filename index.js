@@ -6,11 +6,11 @@ customerName = customerName.toUpperCase();
 }
 
 function setBestCustomer() {
-  var customerName = 'not bob';
+  customerName = 'not bob';
 }
 
 function overwriteBestCustomer() {
-
+  bestCustomer = copy;
 }
 
 function changeLeastFavoriteCustomer() {
